@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shearerimage.com v3.0]]></title>
+        <description><![CDATA[shearerimage.com v3.0]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 18:09:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact " ShearerImage.com]]></title>
+            <description><![CDATA[<article><h1>Contact " ShearerImage.com</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3114ff1aafd693d8980a8045fb4c6e0/croprotate.jpg?cropheight=304&cropwidth=432&degrees=0&input=http%3A%2F%2Fwww.shearerimage.com%2Fcommercial-editpicks.%2Ftapedeck.jpg&x=0&y=64"></article>]]></description>
+            <link>http://www.shearerimage.com/contact.html</link>
+            <guid isPermaLink="false">5682be8c-deff-4565-9b03-8fc0ab71b101</guid>
+            <pubDate>Mon, 18 Jul 2016 18:09:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

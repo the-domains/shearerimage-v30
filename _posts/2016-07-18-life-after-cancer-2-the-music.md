@@ -1,11 +1,13 @@
 ---
 description: 'Life After Cancer #2 (the Music)'
-dateModified: '2016-07-18T18:07:49.792Z'
-datePublished: '2016-07-18T18:09:17.689Z'
+dateModified: '2016-07-20T17:35:43.521Z'
+datePublished: '2016-07-20T17:35:44.021Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
+publisher: {}
+via: {}
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

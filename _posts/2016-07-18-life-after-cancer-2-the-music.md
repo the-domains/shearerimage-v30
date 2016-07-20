@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-20T17:48:18.892Z'
+datePublished: '2016-07-20T17:48:41.786Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 author: []
 via: {}
-dateModified: '2016-07-20T17:48:18.132Z'
+dateModified: '2016-07-20T17:48:41.469Z'
 title: 'Life After Cancer #2 (the Music)'
 publisher: {}
 description: >-
@@ -13,7 +13,7 @@ description: >-
   camera, and the photo pit is usually the best seat in the house. I was
   constantly meeting new and interesting people. Beautiful women wanted to talk
   to me at rock shows. Over time, some of the luster wore off, and it definitely
-  felt like a job at times. However, 
+  felt like a job. However, 
 starred: false
 inFeed: true
 hasPage: false
@@ -23,4 +23,4 @@ _type: MediaObject
 ---
 ## Life After Cancer \#2 (the Music)
 
-Years ago, before I got sick, I knew who I was. I was a photographer. I travelled, I partied, I photographed the bands that I loved to listen to (and many bands I couldn't stand as well.) For me, I just wanted to be behind the camera, and the photo pit is usually the best seat in the house. I was constantly meeting new and interesting people. Beautiful women wanted to talk to me at rock shows. Over time, some of the luster wore off, and it definitely felt like a job at times. However,
+Years ago, before I got sick, I knew who I was. I was a photographer. I travelled, I partied, I photographed the bands that I loved to listen to (and many bands I couldn't stand as well.) For me, I just wanted to be behind the camera, and the photo pit is usually the best seat in the house. I was constantly meeting new and interesting people. Beautiful women wanted to talk to me at rock shows. Over time, some of the luster wore off, and it definitely felt like a job. However,

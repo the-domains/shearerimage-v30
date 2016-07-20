@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-20T17:43:17.186Z'
+datePublished: '2016-07-20T17:43:24.816Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 author: []
 via: {}
-dateModified: '2016-07-20T17:43:16.698Z'
+dateModified: '2016-07-20T17:43:24.409Z'
 title: 'Life After Cancer #2 (the Music)'
 publisher: {}
 description: >-

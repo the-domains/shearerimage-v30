@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-20T17:39:18.538Z'
+datePublished: '2016-07-20T17:39:24.185Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 author: []
 via: {}
-dateModified: '2016-07-20T17:39:18.100Z'
-title: ''
+dateModified: '2016-07-20T17:39:23.818Z'
+title: 'Life After Cancer #2 (the Music)'
 publisher: {}
-description: 'Life After Cancer #2 (the Music)'
+description: ''
 starred: false
 inFeed: true
 hasPage: false
@@ -14,4 +14,4 @@ inNav: false
 _type: MediaObject
 
 ---
-Life After Cancer \#2 (the Music)
+## Life After Cancer \#2 (the Music)

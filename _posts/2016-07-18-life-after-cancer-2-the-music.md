@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-07-21T21:54:30.961Z'
+datePublished: '2016-07-21T22:00:39.257Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T21:54:27.032Z'
+dateModified: '2016-07-21T22:00:38.450Z'
 title: 'Life After Cancer #2 (the Music)'
-publisher: {}
+publisher:
+  name: © John D. Shearer / Rex features
 description: >-
   Years ago, before I got sick, I knew who I was. I was a photographer. I
   travelled, I partied, I photographed the bands I loved to listen to (and many

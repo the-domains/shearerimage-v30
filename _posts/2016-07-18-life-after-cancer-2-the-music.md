@@ -1,9 +1,11 @@
 ---
-datePublished: '2016-07-21T21:45:19.082Z'
+datePublished: '2016-07-21T21:54:30.961Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg
 author: []
 via: {}
-dateModified: '2016-07-21T21:43:40.629Z'
+dateModified: '2016-07-21T21:54:27.032Z'
 title: 'Life After Cancer #2 (the Music)'
 publisher: {}
 description: >-
@@ -15,8 +17,6 @@ description: >-
   to me at rock shows. Over time, some of the luster wore off, and it definitely
   felt like a job. However, when I lost my vision. When I lost the use of half
   my body... It was hard to imagine I would ever get back in the pit again.
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg
 starred: false
 inFeed: true
 hasPage: false
@@ -24,8 +24,8 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6310738-97cb-45f4-baad-62c3b403a1d5.jpg)
+![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e6f2f629593ec4e1e7fc3387dbbef9/croprotate.jpg?cropheight=2913&cropwidth=4368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fefef795c-a095-4bbf-969a-9d9418fb98c2.jpg&x=0&y=0)
+![Scott Weiland and Dean Deleo, of Stone temple Pilots, perform at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10f8cb262ea609086d4c863507fa99c7c6890bdf.jpg)
 
 ## Life After Cancer \#2 (the Music)
 
@@ -36,8 +36,8 @@ Eventually, after about a year, my vision returned. My therapies continued, and 
 I am fortunate to live in Bloomington, IN. Yes, it is surrounded by Indiana, but it's an island in many respects. I have always loved music, and this town draws many up and coming acts. At first, I started going to shows of bands that I like who were playing in town. I had never really been to any shows without a camera, so I couldn't get comfortable at torro y moi or foxygen. Both shows were great, but it just felt weird to not have my camera at my side. Years went by.
 
 I toyed with the idea of getting back into work, hitting the road to follow the festival circuit again. Unfortunately, I my health was still a bit up and down. I decided to try something different. There is a really cool bar here in Bloomington called The bishop. I can always count on three or four killer shows to come through a year, and tickets are usually under $20\. Its the kind of venue where if one shows up early, there is a good chance of kicking it with the very musician(s) about to play. It's a small venue where everyone gets really sweaty, and the place just smells like body odor by the end of the show. There's a large selection of beers on tap, but I only drink Upland. (the local brewery) Basically, I just started buying a ticket, showing up with my camera, and asking, "Hey, is it cool if I take some pictures of the show"? The answer is always yes. Sometimes they ask me not to use flash, or don't photograph the first song, because she is playing a kazoo." Sometimes they want to know who I'm shooting for. Of course, I'm shooting for myself. This seems to be a fine enough explanation. Sometimes they notice my accent, and ask where I'm from. I explain I'm a hoosier, but had a couple of brain surgeries that affected my speech. We chat about random things. It seems everyone these days knows somebody who went through cancer treatment. the fact that this is a Big 10 university town with many resources comes up. We have a drink after the show. Sometimes I can round the group up for a quick shot after the show. It doesn't matter if they are all sweaty and gross, I just want that offstage shot whenever possible. I'm usually getting home around 2 am on those nights.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb083c0-8399-4cff-9992-d6514eb2face.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49ed3bab-f82e-4688-abc8-871aaaa2b35d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3e7ed42-34e6-4c87-9871-1a273f587408.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e6c4df5-35a0-45f6-bba7-6f9377535722.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/523d96ca-53b5-4971-afea-3fc9cfc37a75.jpg)
+![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30125958cd2f3e53f3544429a4d7e3d51a4d9f1f.jpg)
+![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/032189b0a565ab2993d5529df13727a7d4654040.jpg)
+![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f18f4407e40f496a0e9b036ee22834c318ab6043.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cae220118f0b40449f3e4d1393ddc9b08c7aea6.jpg)
+![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/92763f7ceb8f17d7ba9606282dcc49e90d4e43c2.jpg)

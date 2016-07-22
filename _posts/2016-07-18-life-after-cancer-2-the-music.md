@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T03:51:00.041Z'
+datePublished: '2016-07-22T11:04:23.152Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T03:50:59.068Z'
+dateModified: '2016-07-22T11:04:22.544Z'
 title: 'Life After Cancer #2 (the Music)'
 publisher:
   name: © John D. Shearer / Rex features

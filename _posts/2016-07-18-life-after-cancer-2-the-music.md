@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-22T11:04:23.152Z'
+datePublished: '2016-07-22T13:26:07.314Z'
 sourcePath: _posts/2016-07-18-life-after-cancer-2-the-music.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/efef795c-a095-4bbf-969a-9d9418fb98c2.jpg
 author: []
 via: {}
-dateModified: '2016-07-22T11:04:22.544Z'
+dateModified: '2016-07-22T13:26:06.752Z'
 title: 'Life After Cancer #2 (the Music)'
 publisher:
   name: © John D. Shearer / Rex features
@@ -26,8 +26,8 @@ inNav: false
 _type: MediaObject
 
 ---
-![Scott Weiland, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/02e6f2f629593ec4e1e7fc3387dbbef9/croprotate.jpg?cropheight=2913&cropwidth=4368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fefef795c-a095-4bbf-969a-9d9418fb98c2.jpg&x=0&y=0)
-![Scott Weiland and Dean Deleo, of Stone temple Pilots, perform at white river park in Indianapolis, IN on April second 2010.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10f8cb262ea609086d4c863507fa99c7c6890bdf.jpg)
+![Scott Weiland and Dean Deleo, of Stone temple Pilots, performs at white river park in Indianapolis, IN on April second 2010.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5fdd94393c8fa5cb8bc910f5f4589ece/croprotate.jpg?cropheight=2913&cropwidth=4368&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F219ab43b-e4df-45ab-83fe-9d694be0b8cf.jpg&x=0&y=0)
+![Scott Weiland and Robert Deleo, of Stone temple Pilots, perform at white river park in Indianapolis, IN on April second 2010.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/05fd6bc1-c39c-4557-9dd8-19bfa2b065f9.jpg)
 
 ## Life After Cancer \#2 (the Music)
 
